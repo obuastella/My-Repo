@@ -1,2 +1,2 @@
 # My-Repo
-This is my Personal Repository
+This is my first Repository
